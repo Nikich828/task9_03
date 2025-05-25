@@ -63,9 +63,9 @@
 
 К сожалению, я не назвал машины своим именем (Есть моя фамилия сверху во вкладке), но могу переделать.
 
-![(ссылка на скриншот 1)](https://github.com/Nikich828/task9_03/blob/master/img/img3.png)
-![(ссылка на скриншот 1)](https://github.com/Nikich828/task9_03/blob/master/img/img4.png)
-![(ссылка на скриншот 1)](https://github.com/Nikich828/task9_03/blob/master/img/img5.png)
+![(ссылка на скриншот 1)](https://github.com/Nikich828/task9_03/blob/master/img/img13.png)
+![(ссылка на скриншот 1)](https://github.com/Nikich828/task9_03/blob/master/img/img14.png)
+
 ### Задание 4
 
 Создайте свой кастомный дашборд.
