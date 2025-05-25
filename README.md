@@ -34,7 +34,7 @@
 
 1. `Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»`
 
-`![(ссылка на скриншот 1)](https://github.com/Nikich828/task9_03/blob/master/img/img1.png)`
+![(ссылка на скриншот 1)](https://github.com/Nikich828/task9_03/blob/master/img/img1.png)
 
 
 ### Задание 2
